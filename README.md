@@ -6,10 +6,16 @@
 - Permanent Resident in United States
 ## 🚀 About Me
 I am specialized in owning the product & business lifecycle, rapidly testing theories, and iterating fast with business momentum. With multiple founder experiences of my own business, I engineer entire business cycle, not just coding.
-- Second Travel : camping products e-commerse with $70,000+ annual revenue
-- MadeByMys Mobile : gamified e-commerce nails product mobile app
+- Second Travel : Camping products e-commerse with $70,000+ annual revenue
+- MadeByMys : Customized nail products shipping business in the nation.
 
-
+## 💻 Main Projects
+Lots of projects are private, as they are related to business reason. Request permission to access the project privately is available.
+- MadeByMys Mobile : gamified e-commerce nails product mobile app (on process) in React Native
+- Logistics GraphQL : Full-stack B2B logistics management application with GraphQL
+- NCount : End-to-end order/tax management using React
+- Moverse : 3D motion & character web market service using React + Three.js
+- Senior Bag : Family-friendly grocery list mobile app for older family members during pendemic using React Native
 ## 💬 My Work Style
 ```
 Mapping User Scenarios Before Touching Code
