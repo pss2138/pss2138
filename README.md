@@ -17,7 +17,7 @@ Lots of projects are private, as they are related to business reasons. Request p
 - Moverse : 3D motion & character web market service using React + Three.js
 - Senior Bag : Family-friendly grocery list mobile app for older family members during the pandemic using React Native
 ## 💬 My Work Style
-" Mapping User Scenarios Before Touching Code "
+**" Mapping User Scenarios Before Touching Code "**
 
 Every product requirement starts from users' actions. First user action initiates an event to trigger continuous events within the program to accomplish the purpose of the scenario requirement - it is called **"event chain"**. Defining user scenarios to approach the business goal should be the first step in designing products.
 
